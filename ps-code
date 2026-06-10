@@ -7,12 +7,16 @@
 # looking on W3 schools c-sharp can use a variable type to check for string, if fail catch exception
 
 2. reverse the input f("nepo") => "open"
-# c-sharp has built in str to array function use that
-# c-sharp has built in reverse array
-# c-sharp has built in concat of array to return a str
+# c-sharp has built in str to array function - use that
+# c-sharp has built in reverse array - use that
+# c-sharp has built in concat of array to return a str - use that
 
 
 3. find the 'earliest' letter in the string f(reversed_str) => run a quick sort based on aA = 1 ...... zZ = 26 return the first position in the returned array
+# c-sharp has built in 'tolower' function - use that and reduces having to figure out aA 
+# c-sharp use str to array
+# c-sharp use array.sort
+# c-sharp use array[0] to return the first value
 
 4. take reverse string and convert to an array f("str") => ["s", "t", "r"], interact over the array check each point for comparision aA,eE,iI,oO,uU if true add one to a count
 check for odd/even (modulo of 2) => t|f => rent|open
