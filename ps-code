@@ -1,10 +1,16 @@
 #pseudo code
+# haven't used c#
 
 #function steps
 
 1. test for string => f("str") => t | f => ternary test message on fail "try again, but a string this time like 'test'"
+# looking on W3 schools c-sharp can use a variable type to check for string, if fail catch exception
 
 2. reverse the input f("nepo") => "open"
+# c-sharp has built in str to array function use that
+# c-sharp has built in reverse array
+# c-sharp has built in concat of array to return a str
+
 
 3. find the 'earliest' letter in the string f(reversed_str) => run a quick sort based on aA = 1 ...... zZ = 26 return the first position in the returned array
 
