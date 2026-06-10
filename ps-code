@@ -20,5 +20,16 @@
 
 4. take reverse string and convert to an array f("str") => ["s", "t", "r"], interact over the array check each point for comparision aA,eE,iI,oO,uU if true add one to a count
 check for odd/even (modulo of 2) => t|f => rent|open
+# c-sharp use 'tolower'
+# c-sharp use str to array
+# c-sharp use array foreach loop
+# c-sharp feed output of foreach in conditional of equals 'a|e|i|o|u' add 1 to count
+# c-sharp int odd even check using % =>  int % 2
+# c-sharp has a ToBoolean - use that the convert int to true|false
+# test and return open|rent
 
 5. output_str = point 2 + point 3 + point 4
+# c-sharp use concat to add the strings to gether for output
+
+#nb.
+# can see a number of optimisations already but will leave it here  
