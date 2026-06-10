@@ -9,6 +9,6 @@
 3. find the 'earliest' letter in the string f(reversed_str) => run a quick sort based on aA = 1 ...... zZ = 26 return the first position in the returned array
 
 4. take reverse string and convert to an array f("str") => ["s", "t", "r"], interact over the array check each point for comparision aA,eE,iI,oO,uU if true add one to a count
-check for odd/even (modulo of 2) => t|f => open|rent
+check for odd/even (modulo of 2) => t|f => rent|open
 
-5. output_str = point 2 + point 3 + 
+5. output_str = point 2 + point 3 + point 4
