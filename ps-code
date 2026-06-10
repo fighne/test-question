@@ -1,0 +1,11 @@
+#pseudo code
+
+#function steps
+
+1. test for string => f("str") => t | f => ternary test message on fail "try again, but a string this time like 'test'"
+
+2. reverse the input f("nepo") => "open"
+
+3. find the 'earliest' letter in the string f(reversed_str) => run a quick sort based on aA = 1 ...... zZ = 26 return the first position in the returned array
+
+4. 
